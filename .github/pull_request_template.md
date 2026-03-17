@@ -8,10 +8,10 @@
 <-- Agrega una breve descripción de los cambios -->
 
 ## Checklist
-- [x] Compilación correcta
-- [x] Documentación actualizada 
-- [x] Se agregaron unit test
-- [x] Unit test estan correctos
+[ ] Compilación correcta
+[ ] Documentación actualizada 
+[ ] Se agregaron unit test
+[ ] Unit test estan correctos
 
 ## Notas Adicionales
 
