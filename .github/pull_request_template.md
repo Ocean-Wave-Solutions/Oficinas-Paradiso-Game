@@ -11,15 +11,14 @@
 ## Descripción
 <!-- Agrega una descripción del user story y el propósito del cambio a introducir -->
 
-
 ## Resumen de los cambios
 <!-- Agrega una breve descripción de los cambios -->
 
 ## Checklist
-[ ] Compilación correcta
-[ ] Documentación actualizada 
-[ ] Se agregaron unit test
-[ ] Unit test están correctos
+- [ ] Compilación correcta
+- [ ] Documentación actualizada 
+- [ ] Se agregaron unit test
+- [ ] Unit test están correctos
 
 ## Notas Adicionales
 <!-- Agrega notas adicionales -->
