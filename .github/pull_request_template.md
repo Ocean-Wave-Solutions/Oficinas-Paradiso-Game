@@ -16,10 +16,10 @@
 <!-- Agrega una breve descripción de los cambios -->
 
 ## Checklist
-[ ] Compilación correcta
-[ ] Documentación actualizada 
-[ ] Se agregaron unit test
-[ ] Unit test están correctos
+- [ ] Compilación correcta
+- [ ] Documentación actualizada 
+- [ ] Se agregaron unit test
+- [ ] Unit test están correctos
 
 ## Notas Adicionales
 <!-- Agrega notas adicionales -->
