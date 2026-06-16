@@ -11,6 +11,7 @@
 ## Descripción
 <!-- Agrega una descripción del user story y el propósito del cambio a introducir -->
 
+
 ## Resumen de los cambios
 <!-- Agrega una breve descripción de los cambios -->
 
